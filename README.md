@@ -26,7 +26,8 @@ Miembros
 
 
 ![Método UX](img/Competitive.png) **1.a User Reseach Plan**
-![User Reseach Plan ](P1/User Research.pdf)
+-----
+[User Reseach Plan ](P1/User Research.pdf)
 
 
 
@@ -41,6 +42,7 @@ Nos quedamos con Granaventur, que pese a tener carencias en algunos ambitos cump
 -----
 Elegimos a esta persona, debido a que era una persona joven, con ganas de hacer deporte, pero que tenía una limitación al estar sin amigos en la ciudad en la que se mudó.
 ![Persona1 ](P1/Persona1.png)
+-----
 Esta persona es completamente distinta a la anterior, y la hemos cogido tambien porque es una persona mayor, que tiene dificultados con las tecnologías, tampoco tiene buen físico por lo cuál tiene limitaciones, pero si cuenta con un grupo con el que hacer activadades
 ![Persona2 ](P1/Persona2.png)
 
@@ -49,12 +51,14 @@ Esta persona es completamente distinta a la anterior, y la hemos cogido tambien 
 ![Método UX](img/JourneyMap.png) 1.d User Journey Map
 ----
 ![Journey1 ](P1/Journey1.png)
+-----
 ![Journey2 ](P1/Journey2.png)
 
 
 ![Método UX](img/usabilityReview.png) 1.e Usability Review
 ----
 [Usability](/P1/Usability-review.pdf)
+-----
 Valoración: 55
 Comentario: la página tenía mucha falta de automatismo y mecanismos para poder reservar las actividades por cuenta propia. Tambien tenía una limitación para las personas que no saben español porque no tiene multilanguaje. Tiene un interfaz acertada y bastante bien organizada.
 
@@ -66,6 +70,7 @@ Comentario: la página tenía mucha falta de automatismo y mecanismos para poder
 ----
 
 ![Feedback Capture Grid ](P2/Feedback capture grid.pdf)
+-----
 
 
 ![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
