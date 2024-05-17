@@ -5,14 +5,12 @@ Grupo: DIU3_ASMGLP .  Curso: 2023/24
 Updated: 11/2/2024
 
 Proyecto: 
->>> Decida el nombre corto de su propuesta en la práctica 2 
-
+Aventura360
 Descripción: 
 
->>> Describa la idea de su producto en la práctica 2 
+Nuestra idea es una página web para poder reservar actividades de aventuras y deportivas de todo tipo y dificultades y para todas las edades, donde puedas hacerlo de forma online y de forma autonoma. Tambien existe la posibilidad de que quieras hacer actividades grupales y no tengas con quien hacerlo, nosotros nos encargamos de ayudarte.
 
 Logotipo: 
->>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
 
 Miembros
  * :bust_in_silhouette:   Germán López Pérez     :octocat:     
@@ -20,9 +18,6 @@ Miembros
 
 ----- 
 
-
-
->>> Este documento es el esqueleto del report final de la práctica. Aparte de subir cada entrega a PRADO, se debe actualizar y dar formato de informe final a este documento online. Elimine este texto desde la práctica 1
 
 
 # Proceso de Diseño 
