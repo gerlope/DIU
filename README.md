@@ -29,7 +29,6 @@ Miembros
 [User Reseach Plan ](P1/User Research.pdf)
 
 
->>> Describe el plan de User Research (cómo se planteas)  
 
 ![Método UX](img/Competitive.png) 1.b Competitive Analysis
 -----
@@ -37,7 +36,6 @@ Miembros
 Las tres son del mismo ambito, es verdad que unas tienen mejores interfaces que las demás, pero dos de ellas tienen la limitación de no poder reservar de forma autonoma si no esperar a que tengas que hacerlo por teléfono.
 Nos quedamos con Granaventur, que pese a tener carencias en algunos ambitos cumplía con varios requisitos.
 
->>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas 
 
 ![Método UX](img/Persona.png) 1.c Persona
 -----
@@ -47,16 +45,12 @@ Esta persona es completamente distinta a la anterior, y la hemos cogido tambien 
 [Persona2 ](P1/Persona.png)
 
 
->>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  
 
 ![Método UX](img/JourneyMap.png) 1.d User Journey Map
 ----
 [Journey1 ](P1/Journey1.png)
 [Journey2 ](P1/Journey2.png)
 
-
-
->>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) 
 
 ![Método UX](img/usabilityReview.png) 1.e Usability Review
 ----
