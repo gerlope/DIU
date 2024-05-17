@@ -100,7 +100,7 @@ Comentario: la página tenía mucha falta de automatismo y mecanismos para poder
 
 ![Método UX](img/landing-page.png)  3.b Landing Page
 ----
-![Landing page](P2/landing-page.jpg)
+[Landing page](P2/landing-page.jpg)
 
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
