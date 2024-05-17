@@ -26,13 +26,13 @@ Miembros
 
 
 ![Método UX](img/Competitive.png) **1.a User Reseach Plan**
-[User Reseach Plan ](P1/User Research.pdf)
+![User Reseach Plan ](P1/User Research.pdf)
 
 
 
 ![Método UX](img/Competitive.png) 1.b Competitive Analysis
 -----
-[Competititor Analysis ](P1/Competitor Analysis [DIU23] (Copy).jam)
+![Competititor Analysis ](P1/Competitor Analysis [DIU23] (Copy).jam)
 Las tres son del mismo ambito, es verdad que unas tienen mejores interfaces que las demás, pero dos de ellas tienen la limitación de no poder reservar de forma autonoma si no esperar a que tengas que hacerlo por teléfono.
 Nos quedamos con Granaventur, que pese a tener carencias en algunos ambitos cumplía con varios requisitos.
 
@@ -40,21 +40,21 @@ Nos quedamos con Granaventur, que pese a tener carencias en algunos ambitos cump
 ![Método UX](img/Persona.png) 1.c Persona
 -----
 Elegimos a esta persona, debido a que era una persona joven, con ganas de hacer deporte, pero que tenía una limitación al estar sin amigos en la ciudad en la que se mudó.
-[Persona1 ](P1/Persona1.png)
+![Persona1 ](P1/Persona1.png)
 Esta persona es completamente distinta a la anterior, y la hemos cogido tambien porque es una persona mayor, que tiene dificultados con las tecnologías, tampoco tiene buen físico por lo cuál tiene limitaciones, pero si cuenta con un grupo con el que hacer activadades
-[Persona2 ](P1/Persona.png)
+![Persona2 ](P1/Persona.png)
 
 
 
 ![Método UX](img/JourneyMap.png) 1.d User Journey Map
 ----
-[Journey1 ](P1/Journey1.png)
-[Journey2 ](P1/Journey2.png)
+![Journey1 ](P1/Journey1.png)
+![Journey2 ](P1/Journey2.png)
 
 
 ![Método UX](img/usabilityReview.png) 1.e Usability Review
 ----
-[Usability](/P1/Usability-review.pdf)
+![Usability](/P1/Usability-review.pdf)
 Valoración: 55
 Comentario: la página tenía mucha falta de automatismo y mecanismos para poder reservar las actividades por cuenta propia. Tambien tenía una limitación para las personas que no saben español porque no tiene multilanguaje. Tiene un interfaz acertada y bastante bien organizada.
 
@@ -65,48 +65,29 @@ Comentario: la página tenía mucha falta de automatismo y mecanismos para poder
 ![Método UX](img/feedback-capture-grid.png) 2.a Reframing / IDEACION: Feedback Capture Grid / EMpathy map 
 ----
 
-
->>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior,
-
-
- Interesante | Críticas     
-| ------------- | -------
-  Preguntas | Nuevas ideas
-  
-    
->>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
->>> Problema e hipótesis
->>>  Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa te
->>> (150-200 caracteres)
-
+![Feedback Capture Grid ](P2/Feedback capture grid.pdf)
 
 
 ![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
 ----
->>> Propuesta de valor 
+![ScopeCanvas ](P2/ScopeCanvas.png)
+
 
 ![Método UX](img/Sitemap.png) 2.b User Flow (task) analysis 
 -----
+![SiteMap ](P2/sitemap.jpeg)
 
->>> Definir "User Map" y "Task Flow" ... 
 
 
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
-----
-
-
->>> Identificar términos para diálogo con usuario  
-
-Término | Significado     
-| ------------- | -------
-  Login¿?  | acceder a plataforma
+ 
+![ScopeCanvas ](P2/Labels.png)
 
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
 
->>> Plantear el  diseño del layout para Web/movil (organización y simulación )
->>> Archivos .fig en la carpeta
+>>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
 
 
 ## Paso 3. Mi UX-Case Study (diseño)
@@ -114,38 +95,29 @@ Término | Significado
 
 ![Método UX](img/moodboard.png) 3.a Moodboard
 -----
-
-
->>> Plantear Diseño visual con una guía de estilos visual (moodboard) 
->>> Incluir Logotipo
->>> Si diseña un logotipo, explique la herramienta utilizada y la resolución empleada. ¿Puede usar esta imagen como cabecera de Twitter, por ejemplo, o necesita otra?
+![MoodBoard ](P3/Moodboard.fig)
 
 
 ![Método UX](img/landing-page.png)  3.b Landing Page
 ----
+![Landing page](P2/landing-page.jpg)
 
-
->>> Plantear Landing Page 
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
-----
 
->>> Estudio de Guidelines y Patrones IU a usar 
->>> Tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
+![GuideLines ](P3/Guidelines.fig)
+
 
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
+![Mockup ](P3/Mockup.fig)
 
 >>> Layout: Mockup / prototipo HTML  (que permita simular tareas con estilo de IU seleccionado)
->>> Archivo .fig en la carpeta de la practica
 
 
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
 -----
 
-
->>> Publicar my Case Study en Github..
->>> Documente y resuma el diseño de su producto
 
 
 ## Paso 5. Exportación & evaluación con Eye Tracking 
