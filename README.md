@@ -26,12 +26,16 @@ Miembros
 
 
 ![Método UX](img/Competitive.png) **1.a User Reseach Plan**
------
+[User Reseach Plan ](P1/User Research.pdf)
+
 
 >>> Describe el plan de User Research (cómo se planteas)  
 
 ![Método UX](img/Competitive.png) 1.b Competitive Analysis
 -----
+[Competititor Analysis ](P1/Competitor Analysis [DIU23] (Copy).jam)
+Las tres son del mismo ambito, es verdad que unas tienen mejores interfaces que las demás, pero dos de ellas tienen la limitación de no poder reservar de forma autonoma si no esperar a que tengas que hacerlo por teléfono.
+Nos quedamos con Granaventur, que pese a tener carencias en algunos ambitos cumplía con varios requisitos.
 
 >>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas 
 
