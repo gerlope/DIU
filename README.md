@@ -26,33 +26,37 @@ Miembros
 
 
 ![Método UX](img/Competitive.png) **1.a User Reseach Plan**
------
+[User Reseach Plan ](P1/User Research.pdf)
 
->>> Describe el plan de User Research (cómo se planteas)  
+
 
 ![Método UX](img/Competitive.png) 1.b Competitive Analysis
 -----
+[Competititor Analysis ](P1/Competitor Analysis [DIU23] (Copy).jam)
+Las tres son del mismo ambito, es verdad que unas tienen mejores interfaces que las demás, pero dos de ellas tienen la limitación de no poder reservar de forma autonoma si no esperar a que tengas que hacerlo por teléfono.
+Nos quedamos con Granaventur, que pese a tener carencias en algunos ambitos cumplía con varios requisitos.
 
->>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas 
 
 ![Método UX](img/Persona.png) 1.c Persona
 -----
+Elegimos a esta persona, debido a que era una persona joven, con ganas de hacer deporte, pero que tenía una limitación al estar sin amigos en la ciudad en la que se mudó.
+[Persona1 ](P1/Persona1.png)
+Esta persona es completamente distinta a la anterior, y la hemos cogido tambien porque es una persona mayor, que tiene dificultados con las tecnologías, tampoco tiene buen físico por lo cuál tiene limitaciones, pero si cuenta con un grupo con el que hacer activadades
+[Persona2 ](P1/Persona.png)
 
->>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  
+
 
 ![Método UX](img/JourneyMap.png) 1.d User Journey Map
 ----
+[Journey1 ](P1/Journey1.png)
+[Journey2 ](P1/Journey2.png)
 
-
->>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) 
 
 ![Método UX](img/usabilityReview.png) 1.e Usability Review
 ----
->>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
->>>> SE deben incluir claramente los siguientes elementos
->>> - Enlace al documento:  (sube a github el xls/pdf) 
->>> - Valoración final (numérica): 
->>> - Comentario sobre la valoración:  (60-120 caracteres)
+[Usability](/P1/Usability-review.pdf)
+Valoración: 55
+Comentario: la página tenía mucha falta de automatismo y mecanismos para poder reservar las actividades por cuenta propia. Tambien tenía una limitación para las personas que no saben español porque no tiene multilanguaje. Tiene un interfaz acertada y bastante bien organizada.
 
 
 ## Paso 2. UX Design  
