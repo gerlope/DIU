@@ -101,7 +101,8 @@ Término | Significado
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
 
->>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
+>>> Plantear el  diseño del layout para Web/movil (organización y simulación )
+>>> Archivos .fig en la carpeta
 
 
 ## Paso 3. Mi UX-Case Study (diseño)
@@ -132,6 +133,7 @@ Término | Significado
 ----
 
 >>> Layout: Mockup / prototipo HTML  (que permita simular tareas con estilo de IU seleccionado)
+>>> Archivo .fig en la carpeta de la practica
 
 
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
