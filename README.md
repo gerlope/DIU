@@ -42,7 +42,7 @@ Nos quedamos con Granaventur, que pese a tener carencias en algunos ambitos cump
 Elegimos a esta persona, debido a que era una persona joven, con ganas de hacer deporte, pero que tenía una limitación al estar sin amigos en la ciudad en la que se mudó.
 ![Persona1 ](P1/Persona1.png)
 Esta persona es completamente distinta a la anterior, y la hemos cogido tambien porque es una persona mayor, que tiene dificultados con las tecnologías, tampoco tiene buen físico por lo cuál tiene limitaciones, pero si cuenta con un grupo con el que hacer activadades
-![Persona2 ](P1/Persona.png)
+![Persona2 ](P1/Persona2.png)
 
 
 
@@ -54,7 +54,7 @@ Esta persona es completamente distinta a la anterior, y la hemos cogido tambien 
 
 ![Método UX](img/usabilityReview.png) 1.e Usability Review
 ----
-![Usability](/P1/Usability-review.pdf)
+[Usability](/P1/Usability-review.pdf)
 Valoración: 55
 Comentario: la página tenía mucha falta de automatismo y mecanismos para poder reservar las actividades por cuenta propia. Tambien tenía una limitación para las personas que no saben español porque no tiene multilanguaje. Tiene un interfaz acertada y bastante bien organizada.
 
@@ -95,7 +95,7 @@ Comentario: la página tenía mucha falta de automatismo y mecanismos para poder
 
 ![Método UX](img/moodboard.png) 3.a Moodboard
 -----
-![MoodBoard ](P3/Moodboard.fig)
+![MoodBoard ](P3/Moodboard.png)
 
 
 ![Método UX](img/landing-page.png)  3.b Landing Page
@@ -105,12 +105,12 @@ Comentario: la página tenía mucha falta de automatismo y mecanismos para poder
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 
-![GuideLines ](P3/Guidelines.fig)
+[GuideLines ](P3/Guidelines.fig)
 
 
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
-![Mockup ](P3/Mockup.fig)
+[Mockup ](P3/Mockup.fig)
 
 >>> Layout: Mockup / prototipo HTML  (que permita simular tareas con estilo de IU seleccionado)
 
