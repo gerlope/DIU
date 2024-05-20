@@ -90,7 +90,6 @@ Comentario: la página tenía mucha falta de automatismo y mecanismos para poder
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
 
->>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
 
 
 ## Paso 3. Mi UX-Case Study (diseño)
@@ -114,8 +113,9 @@ Comentario: la página tenía mucha falta de automatismo y mecanismos para poder
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
 [Mockup ](P3/Mockup.fig)
+![Mockup](P3/Mockup.png)
 
->>> Layout: Mockup / prototipo HTML  (que permita simular tareas con estilo de IU seleccionado)
+
 
 
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
