@@ -107,7 +107,7 @@ Comentario: la página tenía mucha falta de automatismo y mecanismos para poder
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 
-[GuideLines ](P3/Guidelines.png)
+![GuideLines ](P3/Guidelines.png)
 
 
 ![Método UX](img/mockup.png)  3.d Mockup
