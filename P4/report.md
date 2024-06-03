@@ -10,7 +10,7 @@
 
 ### (03/06/2024)
 
-<img src="https://https://github.com/jluisparrazor/DIU/blob/master/P3/1.MoodBoard/logo.png" alt="Logo_projecto_png" />
+<img src="https://github.com/jluisparrazor/DIU/blob/master/P3/1.MoodBoard/logo.png" alt="Logo_projecto_png" />
 
 Github Projecto: https://github.com/jluisparrazor/DIU
 
