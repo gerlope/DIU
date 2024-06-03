@@ -72,7 +72,10 @@ y Resumen conciso de problemas detectados ]
 
 [tabla, ejemplo, descripción demográfica de los participantes]
 
-
+| User Id    | Projecto Evaluado | Sexo | Edad  | Profesion   | Exp Internet | Uso Windows | Uso UNIX  | Uso Android | Uso IOS/Otro | Uso Tablet |
+| ---------- | ----------------- | ---- | ----- | ----------- | ------------ | ----------- | --------- | ----------- | ------------ | ---------- |
+| User 2     | B                 | F    | 45-60 | Informatica | Avanzado     | Siempre     | Poco/Nada | Siempre     | Siempre      | A veces    |
+| User 4     | B                 | F    | >60   | Profesora   | Intermedio   | A veces     | Poco/Nada | Siempre     | Poco/Nada    | A veces    |
 
 
 
@@ -80,15 +83,15 @@ y Resumen conciso de problemas detectados ]
 
 
 
-(resultado de SUS)
+| User Id    | Projecto Evaluado | P1 | P2 | P3 | P4 | P5 | P6 | P7 | P8 | P9 | P10 | Evaluacion Personal |
+| ---------- | ----------------- | -- | -- | -- | -- | -- | -- | -- | -- | -- | --- | ------------------- |
+| User 2     | B                 | 3  | 1  | 5  | 1  | 4  | 1  | 5  | 1  | 5  | 5   | 9                   |
+| User 4     | B                 | 3  | 1  | 4  | 1  | 4  | 2  | 5  | 1  | 4  | 1   | 8                   |
+
+Resultado final:
 
 
-
-(resultado de eyetracking)
-
-
-
-
+Para ver a las imagenes dirija a los archivos en la carpeta Heatmaps de los usuarios correspondientes
 
 
 
