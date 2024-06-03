@@ -67,7 +67,8 @@ Técnicas : Eye tracking y los cuestionarios que pone el guion
 | User 4     | B                 | 3  | 1  | 4  | 1  | 4  | 2  | 5  | 1  | 4  | 1   | 8                   |
 
 Resultado final:
-
+User 2 pone de nota un 77.5
+User 3 pone de nota un 64
 
 Para ver a las imagenes dirija a los archivos en la carpeta Heatmaps de los usuarios correspondientes
 
