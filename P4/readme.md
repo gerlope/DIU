@@ -6,9 +6,9 @@
 
 #### Evaluación de usabilidad del proyecto 
 
-### (NOMBRE PROYECTO )
+### (Mundo del tablero )
 
-### (Fecha)
+### (03/06/2024)
 
 
 
@@ -24,39 +24,18 @@
 
 ### Realizado por:
 
-[Informe realizado por Equipo (quien hace el report) explicar brevemente vuestra experiencia ]
-
-
-
-
-
-
-
-
-
-
-
+El equipo ASMGLP va a realizar el Usability report del grupo Olivas andaluzas
 ## 1 DESCRIPCIÓN DEL WEBSITE
+La app trata de un sitio web de compra de juegos de mesa y una parte para poder inscribirte a torneos dentro de la propia comunnidad, cuenta con la posibilidad de compra online, y de registro de usuario para crearse una cuenta, y de inscripcion automatica a los torneos.
 
-[Incluir un breve resumen el propósito de la App]
-
- 
 
 
 
 ## 2 RESUMEN EJECUTIVO
 
+La aplicación contiene una parta para inicio y registro de usuario, cuenta con una parte de inscripción a los diferentes torneos y una sección de compra online de productos.
 
-
-[ Breve descripción de lo que contiene el documento 
-
-y Resumen conciso de problemas detectados ]
-
-
-
-
-
-
+He notado como problema que el nav puede ser engorroso al estar ahi situado, pero por lo demás valoro positivamente la app.
 
 
 
@@ -64,8 +43,7 @@ y Resumen conciso de problemas detectados ]
 
 #### Metodología de usabililidad
 
-[Metodología, sesiones,  técnicas aplicadas... ]
-
+Técnicas : Eye tracking y los cuestionarios que pone el guion 
  
 
 #### Test de usuarios: Participantes
@@ -99,34 +77,24 @@ Para ver a las imagenes dirija a los archivos en la carpeta Heatmaps de los usua
 
 ## 4 CONCLUSIONES 
 
-
-
-(qué podemos extraer de conclusion con las pruebas de usabilidad efectuadas)
+  Podemos ver que la interfaz es bastante llamativa, con un buen contraste entre tonos, lo que ayuda a la hora de diferenciar las secciones de cada página, tambien es bastante intutiva. Diría que sin apenas conocimientos informáticos podrías usarla sin problema
 
 
 
 #### Incidencias
 
-* (indicad si algo ha fallado o no se ha podido realizar correctamente por algún motivo)
-
+A la hora de usar el eyes tracking se ha necesitado mas de una calibración por persona.
 
 
 #### Valoración 
 
-* (Puntos Positivos a destacar)
-
+El diseño y la tonalidad elegida, ayuda mucho a buscar lo que se necesita en la página
 
 
 #### Recomendaciones y propuesta de mejoras: 
 
-* (Puntos de mejora)
-
-
-
-
-
+El nav lo pondría como un desplegable, para evitar ese espacio constante que ocupa en la parte de abajo.
 
 
 #### Valoración de la prueba de usabilidad (self-assesment)
-
-(valoración personal de si han sido útiles estas técnicas para detectar errores ocultos o falllos de usabilidad en este caso )
+La página esta bien conseguida y no hemos encontrado ningún problema evidente o de gravedad.

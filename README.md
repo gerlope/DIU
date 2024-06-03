@@ -159,9 +159,7 @@ Resultados y valoración
 
 ![Método UX](img/ABtesting.png) 4.a Caso asignado
 ----
-
-
->>> Breve descripción del caso asignado con enlace a  su repositorio Github
+Nuestro caso ha sido del grupo DIU1 Olivas Andaluz. Ellos han realizado una página web de venta de juegos de mesa, algo similiar a la nuestra, aunque con la diferencia es que nosotros vendiamos excursiones deportivas.
 
 
 ![Método UX](img/usability-testing.png) 4.b User Testing
@@ -191,14 +189,9 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 ![Método UX](img/usability-report.png) 4.d Usability Report
 ----
 
->> Añadir report de usabilidad para práctica B (la de los compañeros)
+En opinión propia, considero que el diseño esta bastante logrado, tanto por el tema de uso de una acertada paleta de colores, que destacaba y diferencia las diferentes partes de cada página, como la selección de los elementos del GuideLines. Considero que es una app muy intuitiva en cuanto a navegación y bastante orientativa. No veo necesario tener que saber de informática para poder usarla. El moodboard cabe resaltar por su logo y como comente la paleta de colores.
 
-
-
->>> Valoración personal 
-
-
-
+Para mi gusto la página ha quedado bastante bonita, la veo bastante bien estructurada, dejando clara la idea de la página y su estructura. Personalmente yo soy más de tener un nav que sea un layout mas que tenerlo en la parte baja de la pantalla, pero esta bien igualmente.
 
 
 5.) Conclusion de EVALUACION (A/B testing + usability report + eye tracking) 
