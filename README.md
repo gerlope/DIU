@@ -159,9 +159,7 @@ Resultados y valoración
 
 ![Método UX](img/ABtesting.png) 4.a Caso asignado
 ----
-
-
->>> Breve descripción del caso asignado con enlace a  su repositorio Github
+Nuestro caso ha sido del grupo DIU1 Olivas Andaluz. Ellos han realizado una página web de venta de juegos de mesa, algo similiar a la nuestra, aunque con la diferencia es que nosotros vendiamos excursiones deportivas.
 
 
 ![Método UX](img/usability-testing.png) 4.b User Testing
