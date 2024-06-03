@@ -70,7 +70,7 @@ Para ver a las imagenes de visualización del gazerecorder dirijase a los archiv
 
 ## 4 CONCLUSIONES 
 
-Podemos ver que la interfaz es bastante llamativa, con un buen contraste entre tonos, lo que ayuda a la hora de diferenciar las secciones de cada página, tambien es bastante intutiva. Diría que sin apenas conocimientos informáticos podrías usarla sin problema
+Podemos ver que la interfaz es bastante llamativa, con un buen contraste entre tonos, lo que ayuda a la hora de diferenciar las secciones de cada página, tambien es bastante intutiva. Diría que sin apenas conocimientos informáticos podrías usarla sin problema. Respecto al eye traking podemos ver que mayoritariamente captaba la atención del usuario a lo principal de cada página, con lo cuál cumple su función. 
 
 
 
@@ -82,7 +82,7 @@ Con algunas personas se han tenido problemas con la precisión del eye tracking,
 
 #### Valoración 
 
-El diseño y la tonalidad elegida, ayuda mucho a buscar lo que se necesita en la página
+El diseño y la tonalidad elegida, ayuda mucho a buscar lo que se necesita en la página. En cuanto a la usabilidad la página esta bastante bien conseguida, todo funciona y se han seleccionado las animaciones correctas para cada página. Respecto a la evaluación de personas externas al curso se ve que es una app bastante intuitiva y de fácil uso algo que se busca en este tipo de páginas, al final es para todos los públicos y no dirigido a un público concreto.
 
 
 
@@ -93,5 +93,4 @@ El nav lo pondría como un desplegable, para evitar ese espacio constante que oc
 
 
 #### Valoración de la prueba de usabilidad (self-assesment)
-
-La página esta bien conseguida y no hemos encontrado ningún problema evidente o de gravedad.
+Analizando los resultados y teniendo en cuenta nuestra experiencia, la página tiene una usabilidad bastante buena, todo funciona correctamente, tiene todo en cuenta para este tipo de páginas y cumple bastante bien con los requisitos que suelen pedirse para este tipo de apps. Valorando los test de personas externas, se ve que cumple con ciertas funciones que se le pide como el tema de que puede ser una app que se use a menudo y que si no sueles usar mucho el movil no vas a tener ningún problema en usarla.
