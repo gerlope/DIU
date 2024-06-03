@@ -19,6 +19,8 @@ Github Projecto: https://github.com/jluisparrazor/DIU
 ### Realizado por:
 
 DIU3_ASMGLP
+    -Alberto Siles Molina
+    -Germán López Pérez
 
 
 
@@ -61,10 +63,10 @@ Técnicas : Eye tracking y los cuestionarios SUS
 | User 4     | 3  | 1  | 4  | 1  | 4  | 2  | 5  | 1  | 4  | 1   |
 
 Resultado final:
-User 2 resulta en nota de 77.5
-User 3 resulta en nota de 64
+User 2 resulta en nota de 82.5
+User 3 resulta en nota de 85
 
-De media nota de 70.75 (Excellent)
+De media nota de 83.75 (A)
 
 Para ver a las imagenes de visualización del gazerecorder dirijase a los archivos en la carpeta Heatmaps de los usuarios correspondientes
 
