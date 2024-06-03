@@ -93,10 +93,5 @@ El diseño y la tonalidad elegida, ayuda mucho a buscar lo que se necesita en la
 El nav lo pondría como un desplegable, para evitar ese espacio constante que ocupa en la parte de abajo.
 
 
-
-
-
-
 #### Valoración de la prueba de usabilidad (self-assesment)
-
-(valoración personal de si han sido útiles estas técnicas para detectar errores ocultos o falllos de usabilidad en este caso )
+La página esta bien conseguida y no hemos encontrado ningún problema evidente o de gravedad.
