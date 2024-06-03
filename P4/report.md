@@ -57,16 +57,12 @@ Técnicas : Eye tracking y los cuestionarios SUS
 
 #### Resultados obtenidos
 
-| User Id    | P1 | P2 | P3 | P4 | P5 | P6 | P7 | P8 | P9 | P10 |
-| ---------- | -- | -- | -- | -- | -- | -- | -- | -- | -- | --- |
-| User 2     | 3  | 1  | 5  | 1  | 4  | 1  | 5  | 1  | 5  | 5   |
-| User 4     | 3  | 1  | 4  | 1  | 4  | 2  | 5  | 1  | 4  | 1   |
+| User Id    | P1 | P2 | P3 | P4 | P5 | P6 | P7 | P8 | P9 | P10 | Nota |
+| ---------- | -- | -- | -- | -- | -- | -- | -- | -- | -- | --- | ---- |
+| User 2     | 3  | 1  | 5  | 1  | 4  | 1  | 5  | 1  | 5  | 5   | 82.5 |
+| User 4     | 3  | 1  | 4  | 1  | 4  | 2  | 5  | 1  | 4  | 1   | 85   |
 
-Resultado final:
-User 2 resulta en nota de 82.5
-User 3 resulta en nota de 85
-
-De media nota de 83.75 (A)
+Resultado final: 83.75 (A)
 
 Para ver a las imagenes de visualización del gazerecorder dirijase a los archivos en la carpeta Heatmaps de los usuarios correspondientes
 
